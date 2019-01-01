@@ -1,1 +1,1 @@
-UPDATE 
+SELECT * FROM characters ORDER BY id DESC LIMIT 1;
